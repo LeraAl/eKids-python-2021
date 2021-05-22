@@ -261,6 +261,13 @@ print(type(mylist))
 ```
 ![input()](./images/list-type.png)
 
+Проверка есть ли значение в списке  - in 
+```python
+mylist = ["apple", "banana", "cherry"]
+if "apple" in mylist:
+ print("Яблоко есть в списке")
+```
+
 <!-- ### Set
 ### Dictionary
 ### Tuple -->
